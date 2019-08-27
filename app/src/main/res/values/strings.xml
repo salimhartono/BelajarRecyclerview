@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Belajar Recyclerview</string>
+    <string name="iniJudul">7 Acara Tv Yag mencengagkan, nomer 5 menggemparkan dunia</string>
+    <string name="iniSubJudul">Pejuang Receh</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="cari">search</string>
+</resources>

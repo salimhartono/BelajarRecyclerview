@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Belajar Recyclerview</string>
+    <string name="iniJudul">i dont know with this title content, its very confused</string>
+    <string name="iniSubJudul">Receh fighter</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="cari">search</string>
+</resources>
